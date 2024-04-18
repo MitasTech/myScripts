@@ -19,8 +19,8 @@ Here are the steps in order to use it.
     git clone https://github.com/MitasTech/MyScripts
 
 
-To run it first you need to make the scripts executable
-2) Cd MyScripts
+To run it first you need to make the scripts executable.
+2) cd MyScripts
    chmod +x install.sh
 
 Then change directory to the Scripts dirextory and do the same for the other 2 scripts.
