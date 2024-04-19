@@ -21,14 +21,16 @@ Here are the steps in order to use it.
 
 To run it first you need to make the scripts executable.
 
-2) cd MyScripts
+2) ```
+   cd MyScripts
    chmod +x install.sh
-
+   ```
 Then change directory to the Scripts dirextory and do the same for the other 2 scripts.
 
 3) Once you complete step 2, go back here:
-    cd ~/MyScripts
-
+   ```
+   cd ~/MyScripts
+   ```
 And run the script using this command
 
     ./install.sh
