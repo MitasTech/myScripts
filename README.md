@@ -1,10 +1,10 @@
 # Welcome Everyone!
 Here you can find my automated scripts to install AUR Helpers and Window Managers.
 Currently there are only four Window Managers Available. 
-1)Qtile
-2)Hyprland
-3)XMonad
-4)BSPWM
+1) Qtile
+2) Hyprland
+3) XMonad
+4) BSPWM
 
 I plan to add more within the next few days.
 My goal with this script is for you guys to be able to choose which window manager you want,
@@ -20,6 +20,7 @@ Here are the steps in order to use it.
 
 
 To run it first you need to make the scripts executable.
+
 2) cd MyScripts
    chmod +x install.sh
 
