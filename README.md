@@ -34,7 +34,8 @@ Then change directory to the Scripts dirextory and do the same for the other 2 s
    ```
 And run the script using this command
 
-   4)   ```
+   4)
+        ```
        ./install.sh
         ```
 This will start the script and you are going to have a few option where you can choose from.
