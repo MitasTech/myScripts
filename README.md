@@ -16,8 +16,9 @@ I hope you like it and enjoy!
 Here are the steps in order to use it.
 
 1) Clone the repo
+    ```
     git clone https://github.com/MitasTech/MyScripts
-
+    ```
 
 To run it first you need to make the scripts executable.
 
