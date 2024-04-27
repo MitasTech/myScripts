@@ -18,7 +18,7 @@ echo -ne "
 sleep 1
 
 # Specify the directory where the scripts are located
-script_dir="/Scripts/"
+script_dir="Scripts"
 
 # Define the script names
 script_0="0-AUR_Install.sh"
