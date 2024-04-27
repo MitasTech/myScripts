@@ -1,4 +1,11 @@
 # Welcome Everyone!
+
+This script simplifies the process of installing various of my scripts by providing users with an intuitive interface to select their desired options. 
+Users are presented with a menu where they can choose from a variety of my scripts. Based on their selections, 
+the installer automatically executes the chosen scripts, seamlessly installing everything according to the user's preferences. 
+Say goodbye to manual installation hassles and welcome a streamlined, user-friendly installation experience with the Automated Script Installer.
+
+
 Here you can find my automated scripts to install AUR Helpers and Window Managers.
 Currently there are only four Window Managers Available. 
 1) Qtile
